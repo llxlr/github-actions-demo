@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/github-actions-demo/static/css/main.692d75bb.chunk.css",
+    "main.js": "/github-actions-demo/static/js/main.1690ce7a.chunk.js",
+    "main.js.map": "/github-actions-demo/static/js/main.1690ce7a.chunk.js.map",
+    "runtime~main.js": "/github-actions-demo/static/js/runtime~main.dd1e6690.js",
+    "runtime~main.js.map": "/github-actions-demo/static/js/runtime~main.dd1e6690.js.map",
+    "static/js/2.6e372feb.chunk.js": "/github-actions-demo/static/js/2.6e372feb.chunk.js",
+    "static/js/2.6e372feb.chunk.js.map": "/github-actions-demo/static/js/2.6e372feb.chunk.js.map",
+    "index.html": "/github-actions-demo/index.html",
+    "precache-manifest.4c8b027dd7e2e20b2169caae0072ad00.js": "/github-actions-demo/precache-manifest.4c8b027dd7e2e20b2169caae0072ad00.js",
+    "service-worker.js": "/github-actions-demo/service-worker.js",
+    "static/css/main.692d75bb.chunk.css.map": "/github-actions-demo/static/css/main.692d75bb.chunk.css.map",
+    "static/media/logo.svg": "/github-actions-demo/static/media/logo.06e73328.svg"
+  }
+}
